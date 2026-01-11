@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">UI Frameworks</h2>
+<h2 align="left">UI Libraries</h2>
 
 ###
 
