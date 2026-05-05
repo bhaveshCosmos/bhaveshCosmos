@@ -1,43 +1,99 @@
-<h1 align="left">👋 Hi there, welcome to my GitHub!</h1>
-
-###
-
-<p align="left">I’m Bhavesh Upadhyay, turning curiosity into code.</p>
-
-###
-
-<h2 align="left">Programming Languages</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <pre>Hello    नमस्ते    Bonjour    こんにちは    Hola    你好    કેમ છો?</pre>
+  <h1>I'm Bhavesh Upadhyay</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
-###
+<h2 align="center">About</h2>
+I’m currently grinding Data Structures & Algorithms while diving into Machine Learning and backend development, focused on understanding what’s happening under the hood rather than just surface-level concepts, preparing myself for an AI-driven future.
+<br></br>
+I’m building a strong foundation in problem-solving and core CS principles, learning by breaking down complex ideas and turning them into practical, real-world projects.
+<br></br>
 
-<h2 align="left">Markup & Styling Languages</h2>
+```markdown
+> First-principles thinking
 
-###
+Real understanding begins when you question everything and start from the ground up.
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+<h2 align="center">Languages</h2>
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=C&logoColor=F7DF1E)
+
 </div>
 
-###
+<h2 align="center">Problem Solving</h2>
 
-<h2 align="left">UI Libraries</h2>
+<div align="center">
+Continuously improving problem-solving skills through DSA practice and logical thinking.
 
-###
+<br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)
+</div>
+
+<h2 align="center">Frameworks & Libraries</h2>
+
+<div align="center">
+Building end-to-end applications with a focus on scalability and clean architecture, turning ideas into real-world products through hands-on learning.
+
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=58a6ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=F63366)
+
+
+
+<h2 align="center">Artificial Intelligence & Machine Learning</h2>
+
+<div align="center">
+Exploring <strong>model building</strong>, <strong>data preprocessing</strong>, and <strong>optimization</strong>, with a focus on how models learn and perform in real-world scenarios.
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![ML](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff)
+
+</div>
+
+
+<h2 align="center">Stats</h2>
+
+<div align="center">
+
+A snapshot of my coding journey and consistency.
+<br/>
+
+<img height="160" width="100%" src="https://streak-stats.demolab.com/?user=bhaveshDotcom&theme=transparent&hide_border=true" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhaveshDotcom&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="160" width="100%" src="https://github-readme-stats.shion.dev/api?username=bhaveshDotcom&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+
+</div>
+
+<br/>
+
+<h2 align="center">Let's Connect</h2>
+
+<div align="center">
+Always open to meaningful conversations and collaborations.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/bhaveshupadhyay23/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/BhaveshDotCom)
+
 </div>
